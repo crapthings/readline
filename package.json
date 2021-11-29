@@ -1,7 +1,6 @@
 {
   "type": "module",
-  "private": false,
-  "name": "@crapthings/readline",
+  "name": "readline-es",
   "description": "a tiny helper for read by line",
   "keywords": ["readline", "esmodule"],
   "version": "0.0.1",
@@ -10,7 +9,7 @@
   "files": ["index.js"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/crapthings/readline.git"
+    "url": "https://github.com/crapthings/readline-es.git"
   },
   "engines": {
     "node": ">=13.2.0"

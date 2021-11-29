@@ -1,7 +1,7 @@
 ### Installation
 
 ```bash
-npm i @crapthings/readline
+npm i readline-es
 ```
 
 ### Usage
