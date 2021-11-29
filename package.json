@@ -1,14 +1,16 @@
 {
   "type": "module",
+  "private": false,
   "name": "@crapthings/readline",
-  "description": "",
+  "description": "a tiny helper for read by line",
+  "keywords": ["readline", "esmodule"]
   "version": "0.0.1",
   "license": "MIT",
   "main": "index.js",
   "files": ["index.js"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/npm/cli.git"
+    "url": "https://github.com/crapthings/readline.git"
   },
   "engines": {
     "node": ">=13.2.0"
