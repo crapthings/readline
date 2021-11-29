@@ -3,7 +3,7 @@
   "private": false,
   "name": "@crapthings/readline",
   "description": "a tiny helper for read by line",
-  "keywords": ["readline", "esmodule"]
+  "keywords": ["readline", "esmodule"],
   "version": "0.0.1",
   "license": "MIT",
   "main": "index.js",
